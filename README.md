@@ -37,6 +37,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basaryargici&show_icons=true&locale=en&layout=compact" alt="basaryargici" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basaryargici&show_icons=true&locale=en" alt="basaryargici" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basaryargici&" alt="basaryargici" /></p>
-
