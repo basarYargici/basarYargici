@@ -6,6 +6,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/ibrahimbasaryargici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimbasaryargici" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12099357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12099357" height="30" width="40" /></a>
+<a href="mailto:ibrahimbyargici@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="12099357" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and tools that I have worked on:</h3>
